@@ -22,8 +22,16 @@ C:\Users\serv-cpd\Desktop\DEV\Marcoratti\APICatalogo\APICatalogo\APICatalogo\obj
 C:\Users\serv-cpd\Desktop\DEV\Marcoratti\APICatalogo\APICatalogo\APICatalogo\obj\Debug\net5.0\staticwebassets\APICatalogo.StaticWebAssets.xml
 C:\Users\serv-cpd\Desktop\DEV\Marcoratti\APICatalogo\APICatalogo\APICatalogo\obj\Debug\net5.0\scopedcss\bundle\APICatalogo.styles.css
 C:\Users\serv-cpd\Desktop\DEV\Marcoratti\APICatalogo\APICatalogo\APICatalogo\obj\Debug\net5.0\APICatalogo.RazorTargetAssemblyInfo.cache
-C:\Users\serv-cpd\Desktop\DEV\Marcoratti\APICatalogo\APICatalogo\APICatalogo\obj\Debug\net5.0\APICatalogo.csproj.CopyComplete
 C:\Users\serv-cpd\Desktop\DEV\Marcoratti\APICatalogo\APICatalogo\APICatalogo\obj\Debug\net5.0\APICatalogo.dll
 C:\Users\serv-cpd\Desktop\DEV\Marcoratti\APICatalogo\APICatalogo\APICatalogo\obj\Debug\net5.0\ref\APICatalogo.dll
 C:\Users\serv-cpd\Desktop\DEV\Marcoratti\APICatalogo\APICatalogo\APICatalogo\obj\Debug\net5.0\APICatalogo.pdb
 C:\Users\serv-cpd\Desktop\DEV\Marcoratti\APICatalogo\APICatalogo\APICatalogo\obj\Debug\net5.0\APICatalogo.genruntimeconfig.cache
+C:\Users\serv-cpd\Desktop\DEV\Marcoratti\APICatalogo\APICatalogo\APICatalogo\bin\Debug\net5.0\Humanizer.dll
+C:\Users\serv-cpd\Desktop\DEV\Marcoratti\APICatalogo\APICatalogo\APICatalogo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\serv-cpd\Desktop\DEV\Marcoratti\APICatalogo\APICatalogo\APICatalogo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\serv-cpd\Desktop\DEV\Marcoratti\APICatalogo\APICatalogo\APICatalogo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\serv-cpd\Desktop\DEV\Marcoratti\APICatalogo\APICatalogo\APICatalogo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\serv-cpd\Desktop\DEV\Marcoratti\APICatalogo\APICatalogo\APICatalogo\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\serv-cpd\Desktop\DEV\Marcoratti\APICatalogo\APICatalogo\APICatalogo\bin\Debug\net5.0\MySqlConnector.dll
+C:\Users\serv-cpd\Desktop\DEV\Marcoratti\APICatalogo\APICatalogo\APICatalogo\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\serv-cpd\Desktop\DEV\Marcoratti\APICatalogo\APICatalogo\APICatalogo\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
