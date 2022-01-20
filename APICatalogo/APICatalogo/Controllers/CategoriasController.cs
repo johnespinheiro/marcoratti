@@ -11,10 +11,10 @@ namespace APICatalogo.Controllers
 {
     [Route("api/[Controller]")]
     [ApiController]
-    public class ProdutosController : ControllerBase
+    public class CategoriasController : ControllerBase
     {
         private readonly AppDbContext _context;
-        public ProdutosController(AppDbContext contexto)
+        public CategoriasController(AppDbContext contexto)
         {
             _context = contexto;
         }
@@ -22,7 +22,7 @@ namespace APICatalogo.Controllers
         [HttpGet]
         public ActionResult<IEnumerable<Produto>> Get()
         {
-           return _context.Produtos.ToList();
+            return _context.Produtos.ToList();
         }
         [HttpGet("{id}", Name = "ObterProduto")]
         public ActionResult<Produto> get(int id)
@@ -35,7 +35,7 @@ namespace APICatalogo.Controllers
             return produto;
         }
         [HttpPost]
-        public ActionResult Post([FromBody]Produto produto)
+        public ActionResult Post([FromBody] Produto produto)
         {
             //    if (!ModelState.IsValid)
             //    {
@@ -63,7 +63,7 @@ namespace APICatalogo.Controllers
         [HttpDelete("{id}")]
         public ActionResult<Produto> Delete(int id)
         {
-        //    var produto = _context.Produtos.FirstOrDefault(p => p.ProdutoId = id);
+            //    var produto = _context.Produtos.FirstOrDefault(p => p.ProdutoId = id);
             var produto = _context.Produtos.Find(id);
 
             if (produto == null)
